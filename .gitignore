@@ -1,0 +1,15 @@
+*.pyc
+config
+*.nja
+__pycache__
+settings.py
+.idea/
+*.mp3
+log.txt
+database.db
+
+# plugin's temp data
+plugins/temp/*
+
+# private plugins
+*.priv.py
